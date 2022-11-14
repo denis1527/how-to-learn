@@ -74,9 +74,11 @@
 
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
   width: 200px;
   color: white;
-  margin-right: 0;
   margin-top: 80px;
 }
 .description {
@@ -242,15 +244,6 @@
 
 .section-subtitle_theme_dark {
   color: white;
-}
-
-.table__cell_theme_dark {
-  z-index: 2;
-  display: flex;
-  flex-direction: column;
-  width: 200px;
-  color: white;
-  margin-top: 80px;
 }
 
 .kaufman__triangle {
