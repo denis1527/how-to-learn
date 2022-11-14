@@ -101,7 +101,6 @@
   font-size: 18px;
   max-width: 175px;
 }
-
 .two-columns__main-text {
   margin: 0px;
   display: flex;
@@ -109,7 +108,6 @@
   width: 80%;
   min-width: 784px;
 }
-
 .two-columns__paragraph {
   margin: 0px;
   margin-bottom: 30px;
@@ -130,7 +128,6 @@
   align-items: center;
   margin-bottom: 100px;
 }
-
 .section-title {
   text-align: center;
   line-height: 1.15;
@@ -141,7 +138,6 @@
   margin-top: 100px;
   margin-bottom: 20px;
 }
-
 .section-subtitle {
   margin-bottom: 0px;
   text-align: center;
@@ -150,8 +146,6 @@
   font-size: 24px;
   width: 60%;
 }
-
-
 .table { 
   display: flex; 
   justify-content: space-between; 
@@ -169,14 +163,14 @@
   font-size: 18px; 
   width: 250px; 
 } 
- 
+
 .table__heading { 
   margin: 0; 
   font-weight: 600; 
   line-height: 1.15; 
   font-size: 24px; 
 } 
- 
+
 .table__text { 
   margin: 0; 
   margin-top: 20px; 
@@ -190,7 +184,6 @@
   min-height: 790px;
   flex-direction: column;
 }
-
 .feynman__image {
   z-index: 0;
   position: absolute;
@@ -199,7 +192,6 @@
   width: 867px;
   height: 637px;
 }
-
 .feynman__title {
   padding-top: 100px;
   margin: 0;
@@ -210,7 +202,6 @@
   font-weight: 600;
   width: 648px;
 }
-
 .feynman__subtitle {
   margin: 0;
   margin-top: 70px;
@@ -219,7 +210,6 @@
   font-size: 36px;
   font-weight: normal;
 }
-
 .feynman__link{
   position: absolute;
   top: 50%;
@@ -239,17 +229,14 @@
   background-color: #1f1f1f;
   padding-bottom: 90px;
 }
-
 .section-title_theme_dark {
   z-index: 3;
   margin-top: 90px;
   color: white;
 }
-
 .section-subtitle_theme_dark {
   color: white;
 }
-
 .table__cell_theme_dark {
   z-index: 2;
   display: flex;
@@ -258,7 +245,6 @@
   color: white;
   margin-top: 80px;
 }
-
 .kaufman__triangle {
   z-index: 1;
   background-size: cover;
@@ -268,14 +254,12 @@
   right: -210px;
  background-image: url(../images/kaufman-triangle.svg);
 }
-
 .footer {
   display: flex;
   justify-content: center;
   background-color: #1f1f1f;
   min-height: 350px;
 }
-
 .footer__columns {
   margin-top: 60px;
   margin-bottom: 40px;
@@ -296,7 +280,6 @@
   flex-basis: 711px;
   justify-content: space-between;
 }
-
 .logo_place_footer {
   margin: 0;
   top: 0px;
@@ -304,7 +287,6 @@
   width: 228px;
   height: 32px;
 }
-
 .footer__author {
   color: gray;
   bottom: 0;
@@ -319,7 +301,6 @@
 .footer__column_content_info {
   text-decoration: none;
 }
-
 .footer__column-heading {
   margin: 0;
   color: white;
@@ -327,7 +308,6 @@
   font-size: 18px;
   font-weight: 600;
 }
-
 .footer__column-links {
   margin: 0;
   list-style: none;
@@ -335,7 +315,6 @@
   padding: 0;
   padding-bottom: 16px;
 }
-
 .footer__column-link {
   text-decoration: none;
   color: white;
@@ -343,13 +322,11 @@
   font-size: 18px;
   font-weight: normal;
 }
-
 .footer__column_content_social {
   font-size: 18px;
   font-weight: normal;
   margin: 0;
 }
-
 .footer__social-icons {
   padding: 10px;
   padding-bottom: 0;
