@@ -234,9 +234,6 @@
   margin-top: 90px;
   color: white;
 }
-.section-subtitle_theme_dark {
-  color: white;
-}
 .table__cell_theme_dark {
   z-index: 2;
   display: flex;
