@@ -1,0 +1,13 @@
+@import url(../digits/table/table.css);
+@import url(../digits/section/subtitle/section-subtitle.css);
+@import url(../digits/section/title/section-title.css);
+@import url(./__triangle/kaufman__triangle.css);
+.kaufman {
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    background-color: #1f1f1f;
+    padding-bottom: 90px;
+  }
